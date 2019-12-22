@@ -1,10 +1,10 @@
 #!/bin/sh
 
 #wget target
-picomConfig=""
-polybarConfig=""
-i3Config=""
-alacrittyConfig=""
+picomConfig="https://raw.githubusercontent.com/memorydream/LinuxConfig/master/.config/picom.conf"
+polybarConfig="https://raw.githubusercontent.com/memorydream/LinuxConfig/master/.config/polybar/config"
+i3Config="https://raw.githubusercontent.com/memorydream/LinuxConfig/master/.config/i3/config"
+alacrittyConfig="https://raw.githubusercontent.com/memorydream/LinuxConfig/master/.config/alacritty/alacritty.yml"
 
 #install packages
 
